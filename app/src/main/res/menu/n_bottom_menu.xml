@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/n_home"
+        android:icon="@drawable/icon_lapak"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/n_dicov"
+        android:icon="@drawable/ic_explore_black_24dp"
+        android:title="@string/discover" />
+    <item
+        android:id="@+id/n_bmall"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="@string/bukamall" />
+    <item
+        android:id="@+id/n_transk"
+        android:icon="@drawable/ic_import_export_black_24dp"
+        android:title="@string/transaksi" />
+    <item
+        android:id="@+id/n_akun"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="@string/akun" />
+</menu>

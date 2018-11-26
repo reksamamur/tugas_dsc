@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BukalapakCopy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="akun">Akun</string>
+    <string name="transaksi">Transaksi</string>
+    <string name="bukamall">BukaMall</string>
+    <string name="discover">Discover</string>
+    <string name="home">Home</string>
+    <string name="bukalapak">BUkaLaPak</string>
+    <string name="aktifkan">Aktifkan</string>
+    <string name="flash_deal">Flash Deal</string>
+    <string name="gratis_ongkir">Gratis Ongkir</string>
+    <string name="special_promo">Special Promo</string>
+    <string name="barang_favorit">Barang Favorit</string>
+    <string name="lihat_semua">Lihat Semua</string>
+    <string name="spesial_untukmu">Spesial Untukmu</string>
+    <string name="menu_favorit">Menu Favorit</string>
+    <string name="listrik_pascabayar">Listrik Pascabayar</string>
+    <string name="bukacicilan">BukaCicilan</string>
+    <string name="buka_dana">Buka DANA</string>
+    <string name="pulsa_prabayar">Pulsa Prabayar</string>
+    <string name="buka_modal">Buka Modal</string>
+    <string name="listrik_prabayar">Listrik Prabayar</string>
+</resources>
